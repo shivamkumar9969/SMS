@@ -1,0 +1,8 @@
+*** 2022-03-06 07:24:01.232
+ksedmp: internal or fatal error
+ORA-00202: Message 202 not found;  product=RDBMS; facility=ORA
+; arguments: [D:\ORACLE\PRODUCT\10.2.0\ORADATA\ORCL\CONTROL01.CTL]
+ORA-27091: Message 27091 not found;  product=RDBMS; facility=ORA
+ORA-27070: Message 27070 not found;  product=RDBMS; facility=ORA
+OSD-04006: ReadFile() failure, unable to read from file
+O/S-Error: (OS 21) The device is not ready.
